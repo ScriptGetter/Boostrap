@@ -771,6 +771,8 @@ Misc:Button({
             Duration = 2,
             Icon = "user-check",
         })
+
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptGetter/Boostrap/refs/heads/main/GamesTab/Universal"))()
         
         WindUI:Notify({
             Title = "Boostrap Enable",
