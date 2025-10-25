@@ -16,7 +16,7 @@ if setfpscap then
     warn("FPS Unlocked!")
 else
     game:GetService("StarterGui"):SetCore("SendNotification", {
-        Title = "dsc.gg/dyhub",
+        Title = "Boostrap",
         Text = "Your exploit does not support setfpscap.",
         Duration = 2,
         Button1 = "Okay"
